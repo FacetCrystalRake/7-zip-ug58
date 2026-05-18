@@ -1,4 +1,4 @@
-# 
+# elite Advanced SystemCare PC版 扩展 是最佳 Advanced SystemCare PC版 扩展，集成 临时文件清理 和 多显示器支持。安全、可靠、优化，性能最大化。
 
 
 
